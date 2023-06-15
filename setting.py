@@ -1,0 +1,3 @@
+import nitk
+
+nitk.download()
